@@ -1,0 +1,60 @@
+\select@language {ngerman}
+\contentsline {title}{Softwarewartung: Definition und Konzepte}{3}{chapter.1}
+\authcount {1}
+\contentsline {author}{Daniel Br"uhl}{3}{chapter.1}
+\contentsline {section}{\numberline {1}Einleitung}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1}Motivation}{3}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.2}Aufbau der Ausarbeitung}{3}{subsection.1.1.2}
+\contentsline {section}{\numberline {2}Theorie}{4}{section.1.2}
+\contentsline {subsection}{\numberline {2.1}Begriffe der Softwarewartung}{4}{subsection.1.2.1}
+\contentsline {subsubsection}{Softwarewartung}{4}{section*.3}
+\contentsline {subsubsection}{Softwarequalit\IeC {\"a}t}{4}{section*.4}
+\contentsline {subsubsection}{Wartbarkeit}{4}{section*.5}
+\contentsline {subsubsection}{Pr\IeC {\"u}fbarkeit}{5}{section*.6}
+\contentsline {subsubsection}{\IeC {\"A}nderbarkeit}{5}{section*.7}
+\contentsline {subsubsection}{Legacy System}{6}{section*.8}
+\contentsline {subsection}{\numberline {2.2}Die Gesetze der Softwareevolution}{7}{subsection.1.2.2}
+\contentsline {subsubsection}{Das Gesetz der kontinuierlichen Ver\IeC {\"a}nderung}{7}{section*.9}
+\contentsline {subsubsection}{Das Gesetz der zunehmenden Komplexit\IeC {\"a}t}{7}{section*.10}
+\contentsline {subsubsection}{Das Gesetz der Selbstregulierung}{7}{section*.11}
+\contentsline {subsubsection}{Das Gesetz der invarianten Arbeitsrate}{7}{section*.12}
+\contentsline {subsubsection}{Das Gesetz der Erhaltung der \IeC {\"A}hnlichkeit}{7}{section*.13}
+\contentsline {subsubsection}{Das Gesetz des kontinuierlichen Wachstums}{7}{section*.14}
+\contentsline {subsubsection}{Das Gesetz der abnehmenden Qualit\IeC {\"a}t}{7}{section*.15}
+\contentsline {subsubsection}{Das Gesetz des Feedback-Systems}{8}{section*.16}
+\contentsline {subsection}{\numberline {2.3}Softwarewartung im Softwarelebenszyklus}{8}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {2.4}Softwarekategorien nach Lehman}{8}{subsection.1.2.4}
+\contentsline {subsubsection}{S-Typ-Systeme:}{8}{section*.17}
+\contentsline {subsubsection}{P-Typ-Systeme:}{8}{section*.18}
+\contentsline {subsubsection}{E-Typ-Systeme:}{9}{section*.19}
+\contentsline {subsection}{\numberline {2.5}Wartungskategorien}{9}{subsection.1.2.5}
+\contentsline {subsubsection}{Korrektive Wartung}{9}{section*.20}
+\contentsline {subsubsection}{Pr\IeC {\"a}ventive Wartung}{9}{section*.21}
+\contentsline {subsubsection}{Adaptive Wartung}{9}{section*.22}
+\contentsline {subsubsection}{Perfektionierende Wartung}{9}{section*.23}
+\contentsline {subsubsection}{Support}{9}{section*.24}
+\contentsline {subsection}{\numberline {2.6}Einbettung des Wartungsprozesses}{10}{subsection.1.2.6}
+\contentsline {subsection}{\numberline {2.7}Metriken}{10}{subsection.1.2.7}
+\contentsline {subsubsection}{GQM - Goal Question Metric}{11}{section*.25}
+\contentsline {subsubsection}{Prozessmetriken}{11}{section*.26}
+\contentsline {subsubsection}{Produktmetriken}{11}{section*.27}
+\contentsline {subsubsection}{Ressourcenmetriken}{11}{section*.28}
+\contentsline {subsubsection}{Wartungs-Dashboard}{12}{section*.29}
+\contentsline {subsection}{\numberline {2.8}Konzepte}{12}{subsection.1.2.8}
+\contentsline {subsubsection}{Softwarevisualisierung}{12}{section*.30}
+\contentsline {subsubsection}{Softwareanalysetechnicken}{12}{section*.31}
+\contentsline {subsubsection}{Architekturanalyse}{12}{section*.32}
+\contentsline {subsubsection}{Quellcodeanalyae}{12}{section*.33}
+\contentsline {subsection}{\numberline {2.9}Reengineering}{13}{subsection.1.2.9}
+\contentsline {subsubsection}{Reverse Engineering}{13}{section*.34}
+\contentsline {subsubsection}{Restrukturierung}{13}{section*.35}
+\contentsline {subsubsection}{Forward Engineering}{13}{section*.36}
+\contentsline {subsubsection}{Migration}{13}{section*.37}
+\contentsline {subsection}{\numberline {2.10}Testmethoden}{14}{subsection.1.2.10}
+\contentsline {subsubsection}{Statische Testmethoden}{14}{section*.38}
+\contentsline {subsubsection}{Dynamische Testmethoden}{14}{section*.39}
+\contentsline {section}{\numberline {3}Jabref}{15}{section.1.3}
+\contentsline {subsection}{\numberline {3.1}Einstufung}{15}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {3.2}Aktueller Stand}{15}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {3.3}Beispiel Architekturanalyse}{15}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {3.4}Fazit}{17}{subsection.1.3.4}

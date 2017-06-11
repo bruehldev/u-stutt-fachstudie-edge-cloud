@@ -1,0 +1,162 @@
+\documentclass[runningheads,a4paper]{llncs}
+\usepackage[verbose]{placeins}
+% für neue deutsche Rechtschreibung
+\usepackage[ngerman]{babel}
+% für englische Rechtschreibung
+%\usepackage[american]{babel}
+
+%Eingabeformat UTF-8
+\usepackage[utf8]{inputenc}
+
+\usepackage{graphicx}
+\graphicspath{{graphics/}}
+
+%Tweaks by IPVS/AS
+\usepackage{lncs_as}
+
+%extended enumerate, such as \begin{compactenum}
+\usepackage{paralist}
+
+%put figures inside a text
+%\usepackage{picins}
+%use
+%\piccaptioninside
+%\piccaption{...}
+%\parpic[r]{\includegraphics ...}
+%Text...
+
+%Sorts the citations in the brackets
+%\usepackage{cite}
+
+%for easy quotations: \enquote{text}
+\usepackage{csquotes}
+
+\usepackage[T1]{fontenc}
+
+%enable margin kerning
+\usepackage{microtype}
+
+%better font, similar to the default springer font
+\usepackage[%
+rm={oldstyle=false,proportional=true},%
+sf={oldstyle=false,proportional=true},%
+tt={oldstyle=false,proportional=true,variable=true},%
+qt=false%
+]{cfr-lm}
+%
+%if more space is needed, exchange cfr-lm by mathptmx
+%\usepackage{mathptmx}
+
+%for demonstration purposes only
+\usepackage[math]{blindtext}
+
+\usepackage{listings}
+\lstloadlanguages{java}
+\lstset{language=java,numbers=left,captionpos=b}
+
+\usepackage[hyperref,svgnames]{xcolor}
+
+\usepackage[
+%pdfauthor={},
+%pdfsubject={},
+%pdftitle={},
+%pdfkeywords={},
+bookmarks=false,
+breaklinks=true,
+colorlinks=true,
+linkcolor=black,
+citecolor=black,
+filecolor=DarkBlue,
+urlcolor=DarkBlue,
+pdfstartview=Fit,
+pdfpagelayout=SinglePage
+]{hyperref}
+%enables correct jumping to figures when referencing
+\usepackage[all]{hypcap}
+
+\usepackage[capitalise,nameinlink,ngerman]{cleveref}
+%Nice formats for \cref - only for English texts
+%\crefname{section}{Sect.}{Sect.}
+%\Crefname{section}{Section}{Sections}
+%\crefname{figure}{Fig.}{Fig.}
+%\Crefname{figure}{Figure}{Figures}
+
+\usepackage{xspace}
+%\newcommand{\eg}{e.\,g.\xspace}
+%\newcommand{\ie}{i.\,e.\xspace}
+\newcommand{\eg}{e.\,g.,\ }
+\newcommand{\ie}{i.\,e.,\ }
+
+%introduce \powerset - hint by http://matheplanet.com/matheplanet/nuke/html/viewtopic.php?topic=136492&post_id=997377
+\DeclareFontFamily{U}{MnSymbolC}{}
+\DeclareSymbolFont{MnSyC}{U}{MnSymbolC}{m}{n}
+\DeclareFontShape{U}{MnSymbolC}{m}{n}{
+    <-6>  MnSymbolC5
+   <6-7>  MnSymbolC6
+   <7-8>  MnSymbolC7
+   <8-9>  MnSymbolC8
+   <9-10> MnSymbolC9
+  <10-12> MnSymbolC10
+  <12->   MnSymbolC12%
+}{}
+\DeclareMathSymbol{\powerset}{\mathord}{MnSyC}{180}
+
+% correct bad hyphenation here
+\hyphenation{op-tical net-works semi-conduc-tor}
+
+\begin{document}
+
+%Works on MiKTeX only
+%hint by http://goemonx.blogspot.de/2012/01/pdflatex-ligaturen-und-copynpaste.html
+%also http://tex.stackexchange.com/questions/4397/make-ligatures-in-linux-libertine-copyable-and-searchable
+%This allows a copy'n'paste of the text from the paper
+\input glyphtounicode.tex
+\pdfgentounicode=1
+
+\title{Analyse existierender Deployment- und Management-Technologien für die Edge Cloud}
+%If Title is too long, use \titlerunning
+%\titlerunning{Short Title}
+
+\author{Christoph Braun, Daniel Br"uhl}
+
+\supervisor{M.Sc. Karoline Saatkamp / M.Sc. Michael Wurster}
+
+\seminar{IAAS - Fachstudie}
+
+\semester{SS 2017}
+
+\abgabedatum{Stuttgart, 15.10.2017}
+
+\institute{\email{st103425@stud.uni-stuttgart.de}}
+
+\frontpagede % creates the frontpage (in German)
+%\frontpageen % creates the frontpage (in English)
+
+\thispagestyle{empty}
+%\cleardoublepage
+%\pagebreak
+%\setcounter{tocdepth}{2}
+%\tableofcontents
+
+\maketitle
+
+\begin{abstract}
+Hier wird das Abstract stehen
+\end{abstract}
+
+%\keywords{...}
+
+
+\section{Einleitung}
+
+
+
+\subsection{Motivation}
+
+
+\subsection{Aufbau der Ausarbeitung}
+
+\newpage
+\bibliographystyle{splncs03}
+\bibliography{paper}
+\end{document}

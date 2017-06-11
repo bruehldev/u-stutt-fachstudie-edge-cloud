@@ -1,0 +1,114 @@
+% Encoding: UTF-8
+
+@Manual{Bennett,
+  title =  {Software Maintenance and Evolution: A Roadmap},
+  author = {Keith Bennet, Vaclav Rajlich}
+}
+
+@Book{Bommer,
+  title =     {Softwarewartung - Grundlagen, Management und Wartungstechniken},
+  publisher = {dpunkt.verlag},
+  year =      {2008},
+  author =    {Christoph Bommer, Markus Spindler, Volkert Barr}
+}
+
+@Book{buerger,
+  Title                    = {LATEX for scientists and engineers},
+  Author                   = {Buerger, D. J.},
+  Publisher                = {McGraw-Hill},
+  Year                     = {1990}
+}
+
+@Article{GartnerAn,
+  author = {Gartner Group},
+  title =  {Analyst Report},
+  year =   {März 2002}
+}
+
+@Article{GartnerEx,
+  author = {Gartner},
+  title =  {Executive Summary},
+  year =   {September 2004}
+}
+
+@Book{Gimnich,
+  title =  {Workflow der Software-Migration, Software-Technik Trends},
+  year =   {2005},
+  author = {Gimnich R., Winter A.}
+}
+
+
+@Book{guenther,
+  Title                    = {Einführung in LaTeX},
+  Author                   = {Günther, K},
+  Publisher                = {dpunkt.verlag},
+  Year                     = {2003}
+}
+
+@Manual{IEEE,
+  title = {IEEE Standard for Software Maintenance, The Institute of Electrical and Electronics Engineers, Inc. (1998)}
+}
+
+
+@Book{kopka,
+  Title                    = {Guide to LATEX},
+  Author                   = {Kopka, H. and Daly, P. W.},
+  Publisher                = {Addison-Wesley},
+  Year                     = {2004}
+}
+
+@Article{Lehman,
+  author = {Lehman, M.M.},
+  title =  {Programs, Life Cycles, and Laws of Software Evolution, Proceedings of the IEEE 68},
+  year =   {1980}
+}
+
+@Book{LehmanEvo,
+  title =     {Program evolution: processes of software change},
+  publisher = {Imperial College of Science and Technology, London, UK},
+  year =      {1985},
+  author =    {M. M. Lehman, L. A. Belady}
+}
+
+@Article{Lehner,
+  author =  {Franz Lehner},
+  title =   {Software-Wartung},
+  journal = {Enzyklopädie der Wirtschaftsinformatik},
+  year =    {2012}
+}
+
+@Book{Ludewig,
+  title =     {Software Engineering},
+  publisher = {dpunkt.verlag},
+  year =      {2013},
+  author =    {Jochen Ludewig, Horst Lichter}
+}
+
+@Manual{opferkuch,
+  title =        {Dokumentation für die Software-Wartung},
+  author =       {Stefan Opferkuch},
+  organization = {Abteilung Software Engineering, Institut für Softwaretechnologie, Universität Stuttgart (2010)}
+}
+
+@Article{Seed,
+  author =  {Harry M. Seed},
+  title =   {Aufwandsschätzung der Softwarewartung und -evolution},
+  journal = {Technische Universität Dreden},
+  year =    {2015}
+}
+
+
+
+@Inproceedings{Winery,
+  Title                    = {{Winery - A Modeling Tool for TOSCA-based Cloud Applications}},
+  Author                   = {Oliver Kopp and others},
+  Booktitle                = {Proceedings of 11\textsuperscript{th} International Conference on Service-Oriented Computing (ICSOC'13)},
+  Doi                      = {10.1007/978-3-642-45005-1_64},
+  Pages                    = {700--704},
+  Publisher                = {Springer Berlin Heidelberg},
+  Series                   = {LNCS},
+  Volume                   = {8274},
+  Year                     = {2013},
+
+  Keywords                 = {Cloud Applications; Modeling; TOSCA; Management; Portability}
+}

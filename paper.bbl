@@ -1,0 +1,41 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{IEEE}
+IEEE Standard for Software Maintenance, The Institute of Electrical and
+  Electronics Engineers, Inc. (1998)
+
+\bibitem{Bommer}
+Christoph~Bommer, Markus~Spindler, V.B.: Softwarewartung - Grundlagen,
+  Management und Wartungstechniken. dpunkt.verlag (2008)
+
+\bibitem{GartnerEx}
+Gartner: Executive summary  (September 2004)
+
+\bibitem{Gimnich}
+Gimnich~R., W.A.: Workflow der Software-Migration, Software-Technik Trends
+  (2005)
+
+\bibitem{GartnerAn}
+Group, G.: Analyst report  (März 2002)
+
+\bibitem{Ludewig}
+Jochen~Ludewig, H.L.: Software Engineering. dpunkt.verlag (2013)
+
+\bibitem{Lehman}
+Lehman, M.: Programs, life cycles, and laws of software evolution, proceedings
+  of the ieee 68  (1980)
+
+\bibitem{Lehner}
+Lehner, F.: Software-wartung. Enzyklopädie der Wirtschaftsinformatik  (2012)
+
+\bibitem{LehmanEvo}
+M.~M.~Lehman, L.A.B.: Program evolution: processes of software change. Imperial
+  College of Science and Technology, London, UK (1985)
+
+\bibitem{opferkuch}
+Opferkuch, S.: Dokumentation für die Software-Wartung. Abteilung Software
+  Engineering, Institut für Softwaretechnologie, Universität Stuttgart (2010)
+
+\end{thebibliography}
